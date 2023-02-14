@@ -20,7 +20,7 @@ This project is developed on windows, theoretically compatible for linux
     - Naming format `FIR_DA_[var1]L_[var2]M.vhd`
     - `var1` is address width for each LUT
     - `var2` is number of cascaded MUX in each LUT
-  - MATLAB_Script:
+  - MATLAB:
     - main Script for VHDL code-generation
   - Vivado:
     - synthesised Vivado project files, includes simulation
